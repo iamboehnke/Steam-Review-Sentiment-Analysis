@@ -5,7 +5,7 @@ This project is a sentiment analysis deep dive into millions of Steam reviews. B
 
 The Jupyter Notebook walks through the entire process, including data cleaning, text preprocessing, model training, and performance evaluation. It highlights key steps such as tokenization, vectorization, and building a deep neural network to understand the nuances of review text.
 
-This repository serves as a practical example of how to tackle a real-world text classification problem, showcasing the power of machine learning in understanding user feedback at scale. It can be used as a starting point for anyone interested in natural language processing (NLP), sentiment analysis, or applying machine learning to large text datasets.
+This repository serves as a practical example of how to tackle a real-world text classification problem, showcasing the power of machine learning in understanding user feedback at scale. It can be used as a starting point for anyone interested in natural language processing (NLP), sentiment analysis, or applying machine learning to large text datasets. 
 
 # Dependencies
 This project requires the following libraries and their dependencies. You can install them using pip:
